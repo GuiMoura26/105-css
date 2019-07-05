@@ -1,0 +1,65 @@
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-image: url(bandeira-orgulho-lgbtq-gay-button.jpg);
+    background-size: cover;
+}
+
+button{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 55px;
+
+}
+
+.botao-bala{
+    background-color: blue;
+}
+
+.botao-cha{
+    background-color:gray;
+}
+    
+.botao-quentão{
+    background-color: blue;
+}
+
+.botao-tempero{
+    background-color: blueviolet;
+}
+
+.botao-cachaça{
+    background-color:forestgreen;
+}
+
+div{
+    text-align: center;
+    background-color: rgb(255, 123, 0);
+    width: 250px;
+}
+
+div h3:first-child{
+    background-color:yellow;
+    color:rgb(0, 0, 0);
+}
+
+div h3:nth-child(2){
+    background-color:rgb(9, 255, 0);
+    color:rgb(0, 0, 0);
+}
+
+div h3:last-child{
+    background-color: rgb(189, 72, 173);
+    color: rgb(0, 0, 0);
+}
